@@ -11,7 +11,7 @@ export function SideNavigation() {
     <aside className="fixed bottom-0 left-0 top-0 h-screen w-60 border-r border-gray-300 bg-white p-5">
       <div>
         <Link href={"/admin"} className="px-4 text-lg font-bold uppercase">
-          Mythings
+          Danus FKG ULM
         </Link>
       </div>
       <div className="mt-5">

@@ -10,7 +10,7 @@ export function Footer() {
             <div className="px-3 md:px-0">
               <h3 className="font-bold text-[#892217]">About</h3>
               <p className="py-4">
-                Mythings hadir sebagai solusi untuk segala masalah yang ada di FKG.
+                DANUS FKG ULM Merupakan sebuah program untuk mendukung acara Diesnatalis.
               </p>
             </div>
           </div>
@@ -19,7 +19,7 @@ export function Footer() {
               <h3 className="text-left font-bold text-[#892217]">Social</h3>
               <div className="mt-2 flex w-full items-center justify-between gap-4 py-0">
                 <a
-                  href="https://www.instagram.com/mythings.med/"
+                  href="https://www.instagram.com/diesnatalisfkgulm/"
                   target="_blank"
                   className="text-[#892217]"
                 >
@@ -31,7 +31,7 @@ export function Footer() {
                   </svg>
                 </a>
                 <a
-                  href="https://chat.whatsapp.com/FZNViItwGTeCQBLuMwvLWq"
+                  href="wa.me/+6282152792019"
                   target="_blank"
                   className="text-[#892217]"
                 >
