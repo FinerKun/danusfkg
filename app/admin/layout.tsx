@@ -20,8 +20,8 @@ import {
 import { PlusIcon } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Admin | Mythings",
-  description: "Mythings Admin Website",
+  title: "Admin | DANUS",
+  description: "DANUS Admin Website",
 };
 
 interface LayoutProps {
